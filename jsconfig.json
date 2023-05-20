@@ -1,0 +1,7 @@
+{
+    /* Para utilizar os absolute import do react */
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src"]
+}
